@@ -1,0 +1,9 @@
+body {
+    text-align: Right;
+    font-family: 'Open Sans';
+    background: rgb(13, 30, 30)
+}
+head {
+    text-align: Left;
+    font-family:'Times New Roman', Times, serif
+}
